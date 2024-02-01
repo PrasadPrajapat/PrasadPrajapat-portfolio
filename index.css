@@ -286,13 +286,14 @@ nav .fas {
 }
 
 .about-section1>div>img {
-    width: 130%;
-    border-radius: 30px;
+    width:100%;
+    border-radius: 60px;
+   
 }
 
 #user-detail-intro {
-    margin-top: 3%;
-    margin-left: 10%;
+    margin-top: 10%;
+    margin-right: 10%;
     color: #000000;
     font-size: 18px;
     font-weight: 500;
